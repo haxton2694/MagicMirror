@@ -1,0 +1,19 @@
+{
+  "name": "magicmirror",
+  "version": "1.0.0",
+  "description": "My Magic Mirror",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/haxton2694/MagicMirror.git"
+  },
+  "author": "Anders Havskjold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haxton2694/MagicMirror/issues"
+  },
+  "homepage": "https://github.com/haxton2694/MagicMirror#readme"
+}
